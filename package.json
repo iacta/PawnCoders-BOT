@@ -1,0 +1,27 @@
+{
+  "name": "pawncoders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discloud-status": "^0.1.6",
+    "discord.js": "^12.2.0",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "lodash": "^4.17.20",
+    "node-internet-radio": "^0.2.0",
+    "opus": "0.0.0",
+    "opusscript": "0.0.7",
+    "snekfetch": "^4.0.4",
+    "voice": "0.0.0",
+    "ytdl-core": "^4.1.1"
+  }
+}
